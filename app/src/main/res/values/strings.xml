@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Art Exhibition</string>
+    <string name="menu_profile">Profile</string>
+    <string name="art_title">Art Title</string>
+    <string name="description">Description</string>
+    <string name="created">Date Created</string>
+    <string name="location">Location</string>
+    <string name="logout">LogOut</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Rafika Wardah Kamilah</string>
+    <string name="email">a433bsx2605@bangkit.academy</string>
+
+    <string-array name="data_title">
+        <item>Vote of Election</item>
+        <item>Symphony of The Heart</item>
+        <item>Borobudur Temple</item>
+        <item>Eye 1</item>
+        <item>Eye 2</item>
+        <item>Eye 3</item>
+        <item>Break The Limit</item>
+        <item>Cool Guy</item>
+        <item>Loneliness</item>
+        <item>Sherpherd</item>
+    </string-array>
+
+    <string-array name="data_description">
+                <item>Vote of Election can refer to Election Vote or Voting in an Election in English,
+                    which means Pemilihan dalam Pemilu or Pengambilan Suara dalam Pemilihan. It is the
+                    process where individuals cast their ballots to support candidates or options in a general
+                    election or other selection processes. Voters express their preferences to determine the
+                    winners in political races or other significant decisions. The outcomes of the vote of
+                    election determine who will secure the contested positions or mandates.
+                </item>
+        <item>Symphony of The Heart is a musical composition that evokes deep emotional feelings
+                    and sentiments. It captures the essence of human emotions through harmonious melodies
+                    and intricate arrangements, creating a powerful and touching musical experience.
+                </item>
+        <item>Borobudur Temple is a majestic Buddhist temple located in Central Java, Indonesia. It
+                    is considered one of the most impressive monuments of Buddhist architecture and a UNESCO
+                    World Heritage Site. Built in the 9th century during the Sailendra dynasty, the temple
+                    consists of nine stacked platforms adorned with intricate carvings and stupas. The
+                    structure represents a mandala, symbolizing the journey from the realm of desire to the
+                    realm of enlightenment. Visitors can explore its three tiers, each representing
+                    different stages of spiritual development, while enjoying panoramic views of the
+                    surrounding landscapes. The temple\'s historical and cultural significance makes it a
+                    popular destination for tourists and pilgrims alike.
+                </item>
+        <item>Drawn from the allure of Asian eyes, characterized by their monolid feature, this
+            inspiration captivates with an intriguing fusion of cultural depth and aesthetic
+            elegance. The monolid, a distinctive trait found in many Asian individuals, lends an
+            air of unique charm and mystique. These eyes, devoid of a distinct crease, possess an
+            understated yet captivating beauty that has long been admired. Furthermore, the choice
+            of a deep purple hue to symbolize the essence of elegance and humility within the Asian
+            culture adds a layer of symbolism to the inspiration. The color purple, known for its
+            association with royalty and sophistication, is thoughtfully paired with the idea of
+            humility, reflecting the values of modesty and unpretentiousness that resonate deeply
+            in Asian societies. This harmonious convergence of physical features and symbolic
+            elements creates a visual representation of the grace and unassuming nature that define
+            many Asian cultures.
+        </item>
+        <item>This image embodies my inaugural project, crafted solely through the utilization of a
+            laptop\'s touchpad. It draws inspiration from the rustic charm of European countryside
+            abodes, with its warm brown hues reminiscent of quaint cottages dotting the landscape.
+            Despite the initial challenges posed by the touchpad as a medium, the artwork
+            encapsulates the essence of these Old-World structures, showcasing a fusion of
+            creativity and adaptability in transforming limitations into a visual testament of
+            intricate beauty.
+        </item>
+        <item>This image draws its inspiration from the diverse population of America,
+            where a majority of individuals have eye colors ranging from blue to brown.
+            It encapsulates the vibrant spectrum of eye colors seen among the American people.
+            The artwork captures the essence of this diversity, symbolizing the collective identity
+            of a nation shaped by various cultures and backgrounds. Through a blend of blue and
+            brown hues, the image not only celebrates the distinctiveness of individual eye colors
+            but also reflects the unity found in the country\'s multicultural tapestry.
+        </item>
+        <item>Amidst the COVID-19 pandemic, individuals and societies globally have demonstrated
+                    remarkable resilience and innovation. Confronted with unprecedented challenges, people
+                    have consistently pushed past limitations to adapt and overcome. From the rapid
+                    development of vaccines utilizing groundbreaking technology to the accelerated shift
+                    towards remote work and virtual communication, the pandemic has spurred an era of
+                    transformation. Communities have united to support vulnerable members, leveraging
+                    technology and mutual aid networks. As we navigate these testing times, the human
+                    capacity to break barriers and embrace change shines as a testament to our unwavering
+                    spirit and determination.
+                </item>
+        <item>A person exuding an impressive aura of charm and confidence, often referred to as a
+                    cool guy, possesses a magnetic appeal that captivates those around them. This
+                    individual effortlessly navigates social situations with a laid-back attitude and a
+                    touch of nonchalant style. Their actions and demeanor reflect a sense of self-assuredness
+                    that draws admiration, as they maintain a balanced blend of approachability and
+                    a certain air of mystery. In various settings, this cool guy\'s presence emanates a
+                    distinctive blend of charisma and composure that leaves a lasting impact on others.</item>
+        <item>Loneliness can be described as a profound emotional state characterized by feelings of isolation, solitude, and a lack of meaningful social connections. It is a complex and universal human experience where individuals perceive a disconnect between their desired level of social interaction and the actual interactions they have. This emotional condition can arise due to various factors, such as physical isolation, social alienation, or the absence of close relationships. Loneliness is often accompanied by a sense of emptiness, sadness, and sometimes even anxiety, leading to a longing for companionship and a desire to establish deeper connections with others in order to alleviate these distressing emotions.
+        </item>
+        <item>A shepherd is an individual responsible for tending and caring for a flock of sheep. This role involves guiding the sheep to graze in suitable pastures, ensuring their safety from predators, and managing their overall well-being. Shepherds often develop a close bond with the animals under their care, as they provide sustenance and protection. Through a deep understanding of sheep behavior and the natural environment, shepherds play a crucial role in maintaining the health and productivity of the flock, reflecting a harmonious coexistence between humans and animals in rural landscapes.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/vote_of_election</item>
+        <item>@drawable/symphony_of_the_heart</item>
+        <item>@drawable/borobudur_temple</item>
+        <item>@drawable/eye_1</item>
+        <item>@drawable/eye_2</item>
+        <item>@drawable/eye_3</item>
+        <item>@drawable/break_the_limit</item>
+        <item>@drawable/cool_guy</item>
+        <item>@drawable/loneliness</item>
+        <item>@drawable/sherpherd</item>
+    </integer-array>
+
+    <string-array name="data_created">
+        <item>October 2021</item>
+        <item>November 2020</item>
+        <item>20 December 2021</item>
+        <item>10 November 2020</item>
+        <item>15 November 2020</item>
+        <item>25 November 2020</item>
+        <item>July 2021</item>
+        <item>6 December 2020</item>
+        <item>25 August 2020</item>
+        <item>23 January 2021</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Surabaya, Jawa Timur</item>
+        <item>Mojokerto, Jawa Timur</item>
+        <item>Gresik, Jawa Timur</item>
+        <item>Gresik, Jawa Timur</item>
+        <item>Surabaya, Jawa Timur</item>
+        <item>Surabaya, Jawa Timur</item>
+        <item>Gresik, Jawa Timur</item>
+        <item>Surabaya, Jawa Timur</item>
+        <item>Surabaya, Jawa Timur</item>
+        <item>Surabaya, Jawa Timur</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+        <item>https://www.behance.net/rafikaWardah</item>
+    </string-array>
+</resources>
