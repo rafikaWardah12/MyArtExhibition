@@ -2,12 +2,12 @@
  MyArtExhibition Apps An application that contains a list of collections of images that I have created myself
 
 ## Features
--List of images
--Image Details
--Profile
--Splash screen
--Apps icons
--Dark Mode
+ * List of images
+ * mage Details
+ * Profile
+ * Splash screen
+ * Apps icons
+ * Dark Mode
 
 ## Preview <a name="Preview"></a>
 <div style="display:flex;">
